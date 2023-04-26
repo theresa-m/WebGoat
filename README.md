@@ -1,3 +1,13 @@
+# Code to Cloud Workshop Setup
+
+This repo is based on a fork of Webgoat.
+
+1. Open codespaces
+2. `mvn clean install`
+3. `./mvnw spring-boot:run`
+
+---
+
 # WebGoat 8: A deliberately insecure Web Application
 
 [![Build](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml)
