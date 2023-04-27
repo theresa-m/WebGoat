@@ -8,5 +8,12 @@
 			"mavenVersion": "3.8.6",
 			"installGradle": "false"
 		}
-	}
+	},
+		
+	"customizations": {
+	    // Configure properties specific to VS Code. Extension IDs can be found on the VS marketplace page under "unique identifier"
+	    "vscode": {
+	      "extensions": ["SonatypeCommunity.vscode-iq-plugin"]
+	    }
+	  }
 }
